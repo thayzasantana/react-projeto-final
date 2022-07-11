@@ -58,7 +58,7 @@ export default function Equipe(){
                     linkGithub="https://github.com/thayzasantana"
                     linkLinkedin="https://www.linkedin.com/in/thayza-santana/"
                     linkInsta="https://www.instagram.com/thayzasantana_/"
-                    linkCV="https://thayzasantana.github.io/avaliacao-html-css/"
+                    linkCV="https://thayzasantana.github.io/meu-curriculo/"
                 />
                 <EquipeDados 
                     foto={Matheus}
